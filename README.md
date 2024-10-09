@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, Welcome to my Github page!<br><br>I'm Srikanth,a Software Engineer having 2+ years of experience working in various domains like Full Stack Development, Machine Learning, Frontend, Backend and Data Science.
+Hi there 👋, Welcome to my Github page!<br><br>I'm Srikanth,a Software Engineer having 2+ years of experience working in various domains like Full Stack Development, Frontend, Backend, Machine Learning & Data Science.
 
 
 ## 🌐 Socials:
